@@ -1,0 +1,103 @@
+Desain UI/UX
+
+Modern, bersih, dan profesional
+
+Warna utama hijau atau biru
+
+Menggunakan Tailwind CSS utility-first
+
+Responsive (mobile-first)
+
+Font mudah dibaca (misal Inter)
+
+Konten Halaman
+
+Beranda
+
+Hero section (judul + tagline pendidikan)
+
+Ringkasan yayasan
+
+Statistik (jumlah siswa, guru, unit)
+
+Berita terbaru
+
+Tentang Yayasan
+
+Sejarah yayasan
+
+Visi & Misi
+
+Nilai-nilai pendidikan
+
+Struktur organisasi
+
+Unit Sekolah
+
+PAUD / TK / SD / SMP / SMA
+
+Deskripsi singkat tiap unit
+
+Program unggulan
+
+Program & Kegiatan
+
+Akademik
+
+Ekstrakurikuler
+
+Keagamaan & karakter
+
+Berita
+
+List berita (dummy data)
+
+Detail berita (dynamic route)
+
+PPDB
+
+Alur pendaftaran
+
+Syarat pendaftaran
+
+Tombol daftar online
+
+Galeri
+
+Grid foto
+
+Hover effect
+
+Kontak
+
+Alamat yayasan
+
+Nomor WhatsApp
+
+Email
+
+Embed Google Maps
+
+Fitur Teknis
+
+Gunakan Next.js App Router
+
+Gunakan Metadata API untuk SEO
+
+Komponen reusable
+
+Dummy data menggunakan array/JSON
+
+Clean code & best practice
+
+Output yang Diminta
+
+Source code lengkap
+
+Struktur folder jelas
+
+Contoh konten yayasan Indonesia
+
+Styling Tailwind rapi dan konsisten
+
+Buatkan seluruh kode dengan pendekatan production-ready.
